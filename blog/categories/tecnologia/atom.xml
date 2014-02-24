@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Wagner Pinheiro]]></title>
-  <link href="http://wagnerpinheiro.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Tecnologia | Wagner Pinheiro]]></title>
+  <link href="http://wagnerpinheiro.github.io/blog/categories/tecnologia/atom.xml" rel="self"/>
   <link href="http://wagnerpinheiro.github.io/"/>
   <updated>2014-02-24T16:43:30-03:00</updated>
   <id>http://wagnerpinheiro.github.io/</id>
