@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Gráficos | Wagner Pinheiro]]></title>
   <link href="http://www.wagnerpinheiro.com.br/blog/categories/graficos/atom.xml" rel="self"/>
   <link href="http://www.wagnerpinheiro.com.br/"/>
-  <updated>2014-03-05T13:20:44-03:00</updated>
+  <updated>2014-03-05T14:34:47-03:00</updated>
   <id>http://www.wagnerpinheiro.com.br/</id>
   <author>
     <name><![CDATA[Wagner Pinheiro]]></name>
@@ -20,12 +20,13 @@
     <id>http://www.wagnerpinheiro.com.br/blog/2011/06/fluxograma-para-escolha-do-melhor.html</id>
     <content type="html"><![CDATA[<p>A melhor forma de apresentar uma grande massa de dados é utilizando um gráfico,
 e para isso a grande maioria dos programas de análise de dados e planilhas possuem
-várias opções de como implementa-los, mas qual é o gráfico ideal para cada apresentação?
-Para ajudar na escolha o Andrew postou no blog <a href="http://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html">Extreme Presentation</a> um fluxograma baseado
-no trabalho de Gene Zelazny.</p>
+várias opções de como implementa-los, mas qual é o gráfico ideal para cada apresentação?</p>
 
 <!--more-->
 
+
+<p>Para ajudar na escolha o Andrew postou no blog <a href="http://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html">Extreme Presentation</a> um fluxograma baseado
+no trabalho de Gene Zelazny.</p>
 
 <p>O fluxograma inicia com a pergunta &ldquo;O que você gostaria de
 apresentar?&rdquo; (comparação, distribuição, composição ou relacionamento) e com isso

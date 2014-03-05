@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: modelagem | Wagner Pinheiro]]></title>
+  <link href="http://www.wagnerpinheiro.com.br/blog/categories/modelagem/atom.xml" rel="self"/>
+  <link href="http://www.wagnerpinheiro.com.br/"/>
+  <updated>2014-03-05T14:34:47-03:00</updated>
+  <id>http://www.wagnerpinheiro.com.br/</id>
+  <author>
+    <name><![CDATA[Wagner Pinheiro]]></name>
+    <email><![CDATA[criaturaw@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Modelagem UML para projetos acadêmicos e de pequeno porte]]></title>
+    <link href="http://www.wagnerpinheiro.com.br/blog/2012/04/uml-case-tools-modelagem-uml-para.html/"/>
+    <updated>2012-04-12T00:00:00-03:00</updated>
+    <id>http://www.wagnerpinheiro.com.br/blog/2012/04/uml-case-tools-modelagem-uml-para.html</id>
+    <content type="html"><![CDATA[<p><img class="img&mdash;left  img&mdash;short  img&mdash;round" src="/images/post_uml_case_tools.jpg">
+<em>Esta precisando de uma ferramenta para modelar o seu projeto com a ajuda dos diagramas UML? confira essa lista de aplicativos gratuitos.</em></p>
+
+<!-- more -->
+
+
+<p>A UML (Unified Modeling Language) é uma linguagem de modelagem de uso geral para visualizar,
+especificar, construir e documentar artefatos de software.
+A UML foi originalmente derivada das linguagens de modelagem de objetos,
+criadas a partir dos principais métodos de orientação a objetos existentes
+até então: Booch, Técnica de Modelagem de objetos (OMT) e
+Object-Oriented Software Engineering (OOSE). Em 1997, a UML,
+foi adicionada à lista de tecnologias adotadas pela OMG,
+e desde então se tornou o padrão da indústria para modelagem de softwares.</p>
+
+<p>Na versão 2.2 da UML estão definidos 14 tipos de diagramas, divididos em duas categorias, sendo sete destinados a representar informações estruturais, e os outros sete diagramas representam algum tipo de  comportamento, sendo que quatro deles representam diferentes aspectos de interações.</p>
+
+<p>Estes diagramas podem ser categorizados hierarquicamente, de acordo com o seguinte diagrama de classe:</p>
+
+<p><img class="img&mdash;center img&mdash;medium img&mdash;round" src="/images/uml_diagrams_overview.png" title="&ldquo;Diagramas da UML 2.2&rdquo;" ></p>
+
+<p>Para implementa-los existem diversas ferramentas CASE que dão suporte aos diagramas definidos pela UML, dentre eles existem alguns de distribuição livre, ideais para projetos acadêmicos ou de pequena complexidade.</p>
+
+<h2>ArgoUML</h2>
+
+<p>Uma das principais ferramentas CASE de distribuição livre é o <a href="http://argouml.tigris.org/">ArgoUML</a>, abaixo segue as suas principais características (<a href="http://argouml.tigris.org/features.html">lista completa</a>):</p>
+
+<ul>
+<li>Suporte a todos os 9 diagramas da UML 1.4</li>
+<li>Plataforma Independente: Java 5+</li>
+<li>Clique e Go! com Java Web Start</li>
+<li>Standard UML 1.4 Metamodel</li>
+<li>Suporte a profiles da UML com alguns pré-definidos</li>
+<li>Suporte a XMI (para integração com outros aplicativos)</li>
+<li>Exporta os diagramas em vários formatos de imagens: GIF, PNG, PS, EPS, PGML e SVG</li>
+<li>Disponível em 10 línguas: EN, EN-GB, DE, ES, IT, RU, FR, NB, PT, ZH</li>
+<li>Edição avançada de diagramas e zoom</li>
+<li>Suporte a OCL</li>
+<li>Forward Engineering: gera classes em diversas linguagens (C++, Java, PHP&hellip;)</li>
+<li>Reverse Engineering: importa classes de arquivos Jar e class</li>
+<li>Open-source distribuído sobre a licença de plugin do Eclipse</li>
+<li>Nível de maturidade equiparado a ferramentas comerciais</li>
+</ul>
+
+
+<p><img class="img&mdash;center img&mdash;medium img&mdash;round" src="/images/ss_argouml.png" title="ArgoUML" ></p>
+
+<p><a class="btn btn--small btn--soft btn--full" href="#">ArgoUML</a></p>
+
+<h2>StarUML</h2>
+
+<ul>
+<li>plataforma Windows (Delphi)</li>
+<li>suporte a diagramas da UML 2.0</li>
+<li>MDA (Model Driven Architecture)</li>
+<li>suporte a plugins e templates</li>
+<li><a href="http://staruml.sourceforge.net/en/about-2.php">lista completa de características</a></li>
+</ul>
+
+
+<p><img class="img&mdash;center img&mdash;medium img&mdash;round" src="/images/ss_staruml.jpg" title="StarUML" ></p>
+
+<p>StarUML</p>
+
+<h2>Umbrello UML Modeller</h2>
+
+<ul>
+<li>open-source</li>
+<li>multiplataforma</li>
+</ul>
+
+
+<p><img class="img&mdash;center img&mdash;medium img&mdash;round" src="/images/ss_umbrello.png" title="Umbrello" ></p>
+
+<p>Umbrello</p>
+
+<h2>Violet UML Editor</h2>
+
+<ul>
+<li>open-source</li>
+<li>multiplataforma (Java)</li>
+<li>distribuído como plugin do eclipse ou aplicativo desktop</li>
+<li>forte apelo visual</li>
+<li>forward engineering</li>
+<li>reverse engineering</li>
+<li><a href="http://alexdp.free.fr/violetumleditor/page.php?id=en:features">lista completa de características</a></li>
+</ul>
+
+
+<p><img class="img&mdash;center img&mdash;medium img&mdash;round" src="/images/ss_violet.jpg" title="Violet" ></p>
+
+<p>Violet</p>
+
+<h2>DIA</h2>
+
+<ul>
+<li>multiplataforma (GTK+)</li>
+<li>outros tipos de diagramas</li>
+</ul>
+
+
+<p><img class="img&mdash;center img&mdash;medium img&mdash;round" src="/images/ss_dia.jpg" title="DIA" ></p>
+
+<p>DIA</p>
+
+<h2>yED</h2>
+
+<ul>
+<li>multiplataforma (java)</li>
+<li>aplicativo comercial, permitido utilização apenas para fins pessoais</li>
+<li>outros tipos de diagramas</li>
+<li>apelo visual razoável</li>
+</ul>
+
+
+<p><img class="img&mdash;center img&mdash;medium img&mdash;round" src="/images/ss_yed.png" title="yED" ></p>
+
+<p>yED</p>
+
+<h2>BOUML</h2>
+
+<ul>
+<li>open-source</li>
+<li>multiplataforma (Java)</li>
+<li>diagramas da UML 2.0</li>
+</ul>
+
+
+<p><img class="img&mdash;center img&mdash;medium img&mdash;round" src="/images/ss_bouml.png" title="BoUML" ></p>
+
+<p>BoUML</p>
+
+<h2>UMLet</h2>
+
+<ul>
+<li>multiplataforma (Java)</li>
+<li>desenvolvido em java</li>
+<li>distribuído como plugin do eclipse ou aplicativo desktop</li>
+</ul>
+
+
+<p><img class="img&mdash;center img&mdash;medium img&mdash;round" src="/images/ss_umlet.png" title="UMLet" ></p>
+
+<p>UMLet</p>
+
+<h2>NetBeans IDE UML</h2>
+
+<ul>
+<li>plugin para o NetBeans</li>
+</ul>
+
+
+<p><img class="img&mdash;center img&mdash;medium img&mdash;round" src="/images/ss_netbeans_uml.png" title="NetBeans IDE UML" ></p>
+
+<p>NetBeans IDE UML</p>
+
+<h2>Eclipse UML2 Tools</h2>
+
+<ul>
+<li>plugin para o Eclipse</li>
+</ul>
+
+
+<p><img class="img&mdash;center img&mdash;medium img&mdash;round" src="/images/ss_eclipse_uml.png" title="Eclipse UML2" ></p>
+
+<p>Eclipse UML2</p>
+
+<h2>Diagramly</h2>
+
+<ul>
+<li>plataforma web</li>
+<li>suporta outros tipos de diagramas</li>
+<li>integração com o Google Drive</li>
+<li>edição dos componentes de uma classe pode ser feita em html</li>
+<li>possui muitos bugs</li>
+<li>exporta em diversos formatos de imagem (PNG, SVG, PDF, GIF, JPEG)</li>
+<li>permite salvar o diagrama em xml para posterior utilização</li>
+</ul>
+
+
+<p><img class="img&mdash;center img&mdash;medium img&mdash;round" src="/images/ss_diagramly.png" title="Diagramly" ></p>
+
+<p>Diagramly</p>
+
+<h2>Cacoo</h2>
+
+<ul>
+<li>plataforma web</li>
+<li>suporte a outros tipos de diagramas</li>
+<li>integração com o Google Drive</li>
+<li>características do plano gratuito:
+
+<ul>
+<li>Formatos de exportação: somente PNG</li>
+<li>Histórico de Edição: Não disponível</li>
+<li>Folhas permitidas: 25 folhas</li>
+<li>Pastas Compartilhadas: 1 Pastas</li>
+<li>Edição colaborativa: Até 15 usuários por diagrama, Até 3 usuários por pasta compartilhada</li>
+<li>Administrar Usuários: Não disponível</li>
+<li>Admins Múltiplos: Não disponível</li>
+</ul>
+</li>
+</ul>
+
+
+<p><img class="img&mdash;center img&mdash;medium img&mdash;round" src="/images/ss_cacoo.jpg" title="Cacoo" ></p>
+
+<p>Cacoo</p>
+
+<h2>LucidChart</h2>
+
+<ul>
+<li>plataforma web</li>
+<li>suporte a outros tipos de diagramas</li>
+<li>um dos melhores aplicativos web para gerar qualquer tipo de diagrama de forma ágil</li>
+<li>integração com o Google Drive</li>
+</ul>
+
+
+<p><img class="img&mdash;center img&mdash;medium img&mdash;round" src="/images/ss_lucidchart.png" title="LucidChart" ></p>
+
+<p>LucidChart</p>
+
+<h2>yUML</h2>
+
+<ul>
+<li>plataforma web</li>
+<li>gera apenas diagramas de classe, utilizando uma notação própria similar a linguagem DOT</li>
+<li>ideal para gerar sketches de forma ágil</li>
+</ul>
+
+
+<p><img class="img&mdash;center img&mdash;short img&mdash;round" src="/images/ss_yuml.png" title="yUML" ></p>
+
+<p>yUML</p>
+
+<h2>WebSequenceDiagram</h2>
+
+<ul>
+<li>plataforma web</li>
+<li>gera apenas diagramas de sequencia, utilizando uma notação própria similar a linguagem DOT</li>
+<li>ideal para gerar sketches de forma ágil</li>
+</ul>
+
+
+<p><img class="img&mdash;center img&mdash;medium img&mdash;round" src="/images/ss_websequence.png" title="WebSequenceDiagram" ></p>
+
+<p>WebSequenceDiagram</p>
+
+<hr />
+
+<p>Fontes:</p>
+
+<ol>
+<li><a href="http://www.uml-forum.com/FAQ.htm#What_is_the_UML">UML Forum: What is the UML</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Unified_Modeling_Language">Unified Modeling Language &ndash; Wikipedia</a></li>
+<li><a href="http://en.wikipedia.org/wiki/List_of_UML_tools">List of UML Tools &ndash; Wikipedia</a></li>
+<li><a href="http://case-tools.org/">UML Case Tools</a></li>
+<li><a href="http://www.uml.org/">UML.org</a></li>
+<li><a href="http://www.uml-tools.com/">UML Tools</a></li>
+<li><a href="http://www.omg.org/">OMG.org</a></li>
+<li><a href="https://cacoo.com/profile/plans">Cacoo Plans</a></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+</feed>
