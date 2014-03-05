@@ -4,7 +4,7 @@
   <title><![CDATA[Wagner Pinheiro]]></title>
   <link href="http://www.wagnerpinheiro.com.br/atom.xml" rel="self"/>
   <link href="http://www.wagnerpinheiro.com.br/"/>
-  <updated>2014-03-05T04:01:00-03:00</updated>
+  <updated>2014-03-05T13:17:32-03:00</updated>
   <id>http://www.wagnerpinheiro.com.br/</id>
   <author>
     <name><![CDATA[Wagner Pinheiro]]></name>
@@ -18,7 +18,7 @@
     <link href="http://www.wagnerpinheiro.com.br/blog/2012/12/altere-o-sistema.html/"/>
     <updated>2012-12-18T16:45:19-02:00</updated>
     <id>http://www.wagnerpinheiro.com.br/blog/2012/12/altere-o-sistema.html</id>
-    <content type="html"><![CDATA[<p><img class="img--round float--left push-half--right push-half--top" src="http://www.wagnerpinheiro.com.br/images/post_altere_o_sistema.png" width="240" height="137">
+    <content type="html"><![CDATA[<p><img class="img--left  img--short  img--round" src="http://www.wagnerpinheiro.com.br/images/post_altere_o_sistema.png">
 <em>Quando as pessoas se atrapalham e dizem bobagens, muitas vezes reagimos de forma negativa discutindo com elas. Temos a tendência de querer mudar a forma como as pessoas pensam, mas o resultado é quase sempre um debate onde não chegamos a lugar algum. Uma solução para esse embate é o contorno da situação através da mudança das nossas próprias atitudes ou das idéias que geram os conflitos.</em></p>
 
 <!--more-->
@@ -97,15 +97,17 @@
 e para isso a grande maioria dos programas de análise de dados e planilhas possuem
 várias opções de como implementa-los, mas qual é o gráfico ideal para cada apresentação?
 Para ajudar na escolha o Andrew postou no blog <a href="http://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html">Extreme Presentation</a> um fluxograma baseado
-no trabalho de Gene Zelazny. O fluxograma inicia com a pergunta &ldquo;O que você gostaria de
+no trabalho de Gene Zelazny.</p>
+
+<!--more-->
+
+
+<p>O fluxograma inicia com a pergunta &ldquo;O que você gostaria de
 apresentar?&rdquo; (comparação, distribuição, composição ou relacionamento) e com isso
 vai descendo os níveis de quanto e qual o tipo de informação que você gostaria de
 apresentar. Provavelmente a maioria dos engenheiros e mestres no Excel já possuem
 esses conceitos engrenados em suas mentes, mas esse fluxograma serve como uma boa
 ferramenta de referência, principalmente para os iniciantes nessa arte.</p>
-
-<!--more-->
-
 
 <p><img class="img--center img--round" src="http://www.wagnerpinheiro.com.br/images/post_chart_suggestions.jpg"></p>
 
