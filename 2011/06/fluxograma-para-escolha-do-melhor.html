@@ -107,7 +107,7 @@ várias opções de como implementa-los, mas qual é o gráfico ideal para cada 
 <!--more-->
 
 
-<p>Para ajudar na escolha o Andrew postou no blog <a href="http://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html">Extreme Presentation</a>{: target=&ldquo;_blank&rdquo; } um fluxograma baseado
+<p>Para ajudar na escolha o Andrew postou no blog <a href="http://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html">Extreme Presentation</a> um fluxograma baseado
 no trabalho de Gene Zelazny.</p>
 
 <p>O fluxograma inicia com a pergunta &ldquo;O que você gostaria de
@@ -338,6 +338,7 @@ download em pdf
 
 <script type="text/javascript">
 function addBlankTargetForLinks () {
+    //$('a[href^="http"],a[href*="#_blank"]').each(function(){
     $('a[href^="http"]').each(function(){
         $(this).attr('target', '_blank');
     });

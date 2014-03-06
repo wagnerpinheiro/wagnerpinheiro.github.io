@@ -483,6 +483,7 @@ várias opções de como implementa-los, mas qual é o gráfico ideal para cada 
 
 <script type="text/javascript">
 function addBlankTargetForLinks () {
+    //$('a[href^="http"],a[href*="#_blank"]').each(function(){
     $('a[href^="http"]').each(function(){
         $(this).attr('target', '_blank');
     });
